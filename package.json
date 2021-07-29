@@ -12,7 +12,15 @@
   "version": "1.0.0",
   "main": "server.js",
   "devDependencies": {},
-  "author": "",
+  "author": "Lonna Lu, Courtney Kakebeen",
   "license": "ISC",
-  "description": ""
+  "description": "Test Git workflow",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LAsoul88/Test-Workflow.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LAsoul88/Test-Workflow/issues"
+  },
+  "homepage": "https://github.com/LAsoul88/Test-Workflow#readme"
 }
